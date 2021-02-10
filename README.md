@@ -1,8 +1,7 @@
 Draft for job status
+              It is an electronic draft to help people in getting stamped job status from their organization
 
-#It is an electronic draft to help people in getting stamped job status from their organization
-
-##steps:  
+steps:  
 
      *Faculty name 
      *Job title
